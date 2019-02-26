@@ -39,7 +39,3 @@ Enter a third city: Oswego city, New York
 ```
 
 * Once the third city is entered, the graph will be displayed. Image displaying the map is in the repository.
-
-## Authors
-
-* **Sean Reid** - [github](https://github.com/seankreid)
